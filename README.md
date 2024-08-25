@@ -1,4 +1,4 @@
-# Descrição
+# Descrição do Projeto
 Este projeto é uma iniciativa proposta pela [ResTIC36](https://www.restic36.cepedi.org.br/index.html) - **Residência em Software Bahia**, que visa desenvolver uma aplicação web simples utilizando HTML, CSS e TypeScript.
 
 Meu objetivo foi criar um formulário interativo com campos para Nome, Idade e a seleção de um Pokémon Favorito.
