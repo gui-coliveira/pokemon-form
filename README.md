@@ -20,4 +20,3 @@ Este é um projeto proposto pela ResTIC36 - Residência em Software Bahia, para 
  - HTML
  - CSS
  - TypeScript
- - JavaScript
