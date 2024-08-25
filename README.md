@@ -25,3 +25,12 @@ Após a seleção, o formulário exibe as informações do Pokémon escolhido ao
  - HTML
  - CSS
  - TypeScript
+<br><br>
+
+## Possíveis Melhorias Futuras
+
+- Animações e Feedback Visual
+- Autenticação e Perfis de Usuário
+- Exibição Detalhada do Pokémon Selecionado
+- Suporte a outros idiomas
+- Validação e Armazenamento dos dados
