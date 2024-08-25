@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // Alvo para ES6 (ES2015) ou superior
+    "lib": [
+      "DOM",
+      "ES6"
+    ], // Inclui as bibliotecas DOM e ES6 para suporte a async/await e Promise
+    "strict": true, // Opções de verificação estrita (opcional, mas recomendado)
+    "module": "commonjs", // Tipo de módulo (ajustar conforme necessário)
+    "outDir": "./dist", // Diretório de saída para os arquivos JavaScript compilados
+    "rootDir": "./scripts", // Diretório raiz dos arquivos TypeScript
+    "esModuleInterop": true // Permite importações compatíveis com CommonJS
+  }
+}
