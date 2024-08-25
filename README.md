@@ -9,14 +9,14 @@ Este é um projeto proposto pela ResTIC36 - Residência em Software Bahia, para 
 
 ## Instruções de uso
 
- - Download do repositório em uma pasta
+ - Faça Download do repositório em uma pasta
  - Execute o arquivo 'index.html'
  <br><br>
  
 
 ## Tecnologias utilizadas
 
- - HTML5
+ - HTML
  - CSS
  - TypeScript
  - JavaScript
