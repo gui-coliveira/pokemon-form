@@ -1,6 +1,13 @@
 
+
 # Formulário
-Este é um projeto proposto pela ResTIC36 - Residência em Software Bahia, para criar uma aplicação web simples utilizando HTML, CSS e TypeScript. O projeto inclui um formulário com opção para selecionar um Pokémon e exibir algumas informações.
+Este projeto é uma iniciativa proposta pela [ResTIC36](https://www.restic36.cepedi.org.br/index.html) - **Residência em Software Bahia**, que visa desenvolver uma aplicação web simples utilizando HTML, CSS e TypeScript.
+
+Meu objetivo foi criar um formulário interativo com campos para Nome, Idade e a seleção de um Pokémon Favorito.
+
+O formulário permite que o usuário escolha seu Pokémon favorito a partir de uma lista populada dinamicamente com dados da [PokeAPI](https://pokeapi.co), uma API que fornece informações detalhadas sobre os Pokémon, incluindo nomes, números e imagens. 
+
+Após a seleção, o formulário exibe as informações do Pokémon escolhido ao lado dos dados fornecidos pelo usuário.
 
 ---
 ![image](https://github.com/user-attachments/assets/4a9691b1-b503-4a7a-a940-73c7a5fe4fd3)
